@@ -1,5 +1,5 @@
-Code journy from a beginner with no prior knowledge
+Code journy from a beginner with no prior knowledge.
 Current goals: 
-[ ] learn basic phyton
+[ ] learn basic python
 [ ] build a simple calculator 
 [ ] share progress on linkedIn
